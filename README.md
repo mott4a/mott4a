@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Tauã and
 #### I am a brazilian developer.
 💻 Mainly in web & mobile development.<br>
-🔭 Focused on the JS stack and in love with React ❤.<br>
+🔭 Currently programming in Java & JSF ❤.<br>
 👶 Passionate about programming since 12 years old.<br>
 💼 Currently working for ZTI Tecnologia @ Teresópolis as Front-end<br>
 
